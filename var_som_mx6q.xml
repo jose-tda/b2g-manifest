@@ -7,8 +7,7 @@
            fetch="https://git.mozilla.org/releases" />
   <remote name="apitrace" fetch="git://github.com/apitrace/" />
   <remote  name="aosp"
-           fetch=".."
-           review="https://android-review.googlesource.com/" />
+           fetch="https://android-review.googlesource.com/"/>
   <default revision="refs/tags/android-4.2.2_r1"
            remote="aosp"
            sync-j="4" />
