@@ -3,8 +3,8 @@
 
   <remote name="b2g"
            fetch="git://github.com/mozilla-b2g/" />
-  <remote name="mozilla"
-	  fetch="git://github.com/mozilla/" />
+  <remote name="mozillaorg"
+           fetch="https://git.mozilla.org/releases" />
   <remote name="apitrace" fetch="git://github.com/apitrace/" />
   <remote  name="aosp"
            fetch=".."
